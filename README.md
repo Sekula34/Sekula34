@@ -28,7 +28,7 @@ I'm Filip, a **university bachelor of informatics** graduate from the [Faculty o
 
 I’m currently looking for my first junior developer job in the EU and would love to start in **February or March** 2025 (but I’m flexible to start earlier if needed).
 
-I’m passionate about learning, coding, F1 🏎️, and tackling new challenges.
+I’m passionate about learning, coding, Formula 1 🏎️, and tackling new challenges.
 
 #### Languages I know:
 
