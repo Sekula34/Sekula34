@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🧑‍🎓 [42 Vienna](https://www.42vienna.com/en/) Student
-- 💼 Looking for junior developer role or similar in EU.
+- 💼 Looking for junior developer role/internship or similar in EU.
 - 💬 Speaking Croatian and English 
 - 🌱 I’m currently learning docker 
 - 📫 How to reach me: **filip.seles@gmail.com**
@@ -26,7 +26,7 @@ Hi there! 👋
 
 I'm Filip, a **university bachelor of informatics** graduate from the [Faculty of Organization and Informatics](https://www.foi.unizg.hr/en), University of Zagreb (July 2023). My study program focused on **business systems**, but I’ve been diving deeper into programming since starting the **[42 Vienna](https://www.42vienna.com/en/) Common Core** in September 2023. I expect to finish by March 2025.
 
-I’m currently looking for my first junior developer job in the EU and would love to start in **February or March** 2025 (but I’m flexible to start earlier if needed).
+I’m currently looking for my first junior developer job or internship in the EU and would love to start in **February or March** 2025.
 
 I’m passionate about learning, coding, Formula 1 🏎️, and tackling new challenges.
 
