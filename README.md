@@ -35,6 +35,7 @@ I’m passionate about learning, coding, Formula 1 🏎️, and tackling new cha
 - **Programming**:
 	- C
 	- C++ (C++98, but I’m happy to learn newer standards if needed)
+  	- TypeScript
 	- bit of Python.  
 	- I’m confident I can pick up any language required for the job.
 - **Spoken**:
