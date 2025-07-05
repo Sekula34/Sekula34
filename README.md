@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 💼 Looking for junior developer role or similar in EU.
 - 💬 Speaking Croatian and English 
 - 📫 How to reach me: **filip.seles@gmail.com**
+- 🏓 web app from me and my AVEG team from 42 Vienna: https://transcendence.at/sign-in-view
 
 ### About me 
 Hi there! 👋
